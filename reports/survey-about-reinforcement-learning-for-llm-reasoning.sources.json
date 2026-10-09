@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2505.23363",
+    "url": "https://arxiv.org/abs/2505.23363",
+    "title": "Discriminative Policy Optimization for Token-Level Reward Models",
+    "date": "2025-05-29",
+    "source": "arxiv",
+    "n": 1
+  },
+  {
+    "id": "2605.07153",
+    "url": "https://huggingface.co/papers/2605.07153",
+    "title": "Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs",
+    "date": "2026-05-08",
+    "source": "hf-search",
+    "n": 2
+  },
+  {
+    "id": "2505.01441",
+    "url": "https://huggingface.co/papers/2505.01441",
+    "title": "Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning",
+    "date": "2025-04-28",
+    "source": "hf-search",
+    "n": 3
+  },
+  {
+    "id": "2406.06608",
+    "url": "https://huggingface.co/papers/2406.06608",
+    "title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+    "date": "2024-06-06",
+    "source": "hf-daily",
+    "n": 4
+  },
+  {
+    "id": "2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "Industry Survey on survey about reinforcement learning for LLM reasoning",
+    "date": "2024-05-01",
+    "source": "web",
+    "n": 5
+  }
+]

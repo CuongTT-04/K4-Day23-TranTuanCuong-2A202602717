@@ -1,0 +1,27 @@
+{
+  "topic": "survey about world model",
+  "model": "openai/gpt-oss-20b",
+  "elapsed_s": 16.9,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "task": 3,
+    "arxiv_search": 2,
+    "hf_search_papers": 2,
+    "hf_daily_papers": 1,
+    "web_search": 1,
+    "write_todos": 1,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 4520,
+    "output": 2180
+  },
+  "n_sources": 6,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

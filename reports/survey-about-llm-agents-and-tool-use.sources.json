@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2610.07094",
+    "url": "https://arxiv.org/abs/2610.07094",
+    "title": "Evaluating Inference Compute for Generative AI: A Framework for Enterprise Workloads",
+    "date": "2026-10-05",
+    "source": "arxiv",
+    "n": 1
+  },
+  {
+    "id": "2609.34930",
+    "url": "https://arxiv.org/abs/2609.34930",
+    "title": "PDEU-Bench: Benchmarking the Personalized Planning Lifecycle of Tool-Calling LLM Agents",
+    "date": "2026-09-28",
+    "source": "arxiv",
+    "n": 2
+  },
+  {
+    "id": "2604.15715",
+    "url": "https://huggingface.co/papers/2604.15715",
+    "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
+    "date": "2026-04-17",
+    "source": "hf-search",
+    "n": 3
+  },
+  {
+    "id": "2601.01498",
+    "url": "https://huggingface.co/papers/2601.01498",
+    "title": "From Failure to Mastery: Generating Hard Samples for Tool-use Agents",
+    "date": "2026-01-04",
+    "source": "hf-search",
+    "n": 4
+  },
+  {
+    "id": "2406.06608",
+    "url": "https://huggingface.co/papers/2406.06608",
+    "title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+    "date": "2024-06-06",
+    "source": "hf-daily",
+    "n": 5
+  },
+  {
+    "id": "bfcl-icml-2025.pdf",
+    "url": "https://shishirpatil.github.io/publications/bfcl-icml-2025.pdf",
+    "title": "Industry Survey on survey about LLM agents and tool use",
+    "date": "2024-05-01",
+    "source": "web",
+    "n": 6
+  }
+]

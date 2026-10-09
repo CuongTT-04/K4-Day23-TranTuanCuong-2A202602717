@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2607.03876",
+    "url": "https://arxiv.org/abs/2607.03876",
+    "title": "AdaptiveSD A Stability-Aware, Runtime-Adaptive Speculative Decoding Framework with Multi-Policy Orchestration for CPU-Constrained LLM Inference",
+    "date": "2026-07-04",
+    "source": "arxiv",
+    "n": 1
+  },
+  {
+    "id": "2510.18672",
+    "url": "https://arxiv.org/abs/2510.18672",
+    "title": "Reasoning Language Model Inference Serving Unveiled: An Empirical Study",
+    "date": "2025-10-21",
+    "source": "arxiv",
+    "n": 2
+  },
+  {
+    "id": "2510.18672",
+    "url": "https://huggingface.co/papers/2510.18672",
+    "title": "Reasoning Language Model Inference Serving Unveiled: An Empirical Study",
+    "date": "2025-10-21",
+    "source": "hf-search",
+    "n": 3
+  },
+  {
+    "id": "2505.22179",
+    "url": "https://huggingface.co/papers/2505.22179",
+    "title": "Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design",
+    "date": "2025-05-28",
+    "source": "hf-search",
+    "n": 4
+  },
+  {
+    "id": "2406.06608",
+    "url": "https://huggingface.co/papers/2406.06608",
+    "title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+    "date": "2024-06-06",
+    "source": "hf-daily",
+    "n": 5
+  },
+  {
+    "id": "web-ref",
+    "url": "https://aclanthology.org/2025.ranlp-1.93/",
+    "title": "Industry Survey on survey about efficient inference and small language models",
+    "date": "2024-05-01",
+    "source": "web",
+    "n": 6
+  }
+]

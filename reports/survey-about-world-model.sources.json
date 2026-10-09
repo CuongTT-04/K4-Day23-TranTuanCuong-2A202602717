@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2609.36851",
+    "url": "https://arxiv.org/abs/2609.36851",
+    "title": "RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts",
+    "date": "2026-09-29",
+    "source": "arxiv",
+    "n": 1
+  },
+  {
+    "id": "2609.30952",
+    "url": "https://arxiv.org/abs/2609.30952",
+    "title": "MVVBench: Benchmarking 4D Reasoning in Vision-Language Models",
+    "date": "2026-09-25",
+    "source": "arxiv",
+    "n": 2
+  },
+  {
+    "id": "1803.10122",
+    "url": "https://huggingface.co/papers/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "hf-search",
+    "n": 3
+  },
+  {
+    "id": "2306.04347",
+    "url": "https://huggingface.co/papers/2306.04347",
+    "title": "World Models for Math Story Problems",
+    "date": "2023-06-07",
+    "source": "hf-search",
+    "n": 4
+  },
+  {
+    "id": "2406.06608",
+    "url": "https://huggingface.co/papers/2406.06608",
+    "title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+    "date": "2024-06-06",
+    "source": "hf-daily",
+    "n": 5
+  },
+  {
+    "id": "3746449",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Industry Survey on survey about world model",
+    "date": "2024-05-01",
+    "source": "web",
+    "n": 6
+  }
+]

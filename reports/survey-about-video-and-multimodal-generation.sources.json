@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2405.05945",
+    "url": "https://arxiv.org/abs/2405.05945",
+    "title": "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers",
+    "date": "2024-05-09",
+    "source": "arxiv",
+    "n": 1
+  },
+  {
+    "id": "2506.01454",
+    "url": "https://huggingface.co/papers/2506.01454",
+    "title": "DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion",
+    "date": "2025-06-02",
+    "source": "hf-search",
+    "n": 2
+  },
+  {
+    "id": "2604.03305",
+    "url": "https://huggingface.co/papers/2604.03305",
+    "title": "HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis",
+    "date": "2026-03-31",
+    "source": "hf-search",
+    "n": 3
+  },
+  {
+    "id": "2406.06608",
+    "url": "https://huggingface.co/papers/2406.06608",
+    "title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+    "date": "2024-06-06",
+    "source": "hf-daily",
+    "n": 4
+  },
+  {
+    "id": "3696415",
+    "url": "https://dl.acm.org/doi/full/10.1145/3696415",
+    "title": "Industry Survey on survey about video and multimodal generation",
+    "date": "2024-05-01",
+    "source": "web",
+    "n": 5
+  }
+]
